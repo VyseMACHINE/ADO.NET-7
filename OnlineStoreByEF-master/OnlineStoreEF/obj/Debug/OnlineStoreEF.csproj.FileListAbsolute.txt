@@ -1,0 +1,11 @@
+c:\users\ильяс сабитов\source\OnlineStoreEF\OnlineStoreEF\obj\Debug\OnlineStoreEF.csprojResolveAssemblyReference.cache
+c:\users\ильяс сабитов\source\OnlineStoreEF\OnlineStoreEF\obj\Debug\OnlineStoreEF.csproj.CoreCompileInputs.cache
+c:\users\ильяс сабитов\source\OnlineStoreEF\OnlineStoreEF\bin\Debug\OnlineStoreEF.exe.config
+c:\users\ильяс сабитов\source\OnlineStoreEF\OnlineStoreEF\bin\Debug\OnlineStoreEF.exe
+c:\users\ильяс сабитов\source\OnlineStoreEF\OnlineStoreEF\bin\Debug\OnlineStoreEF.pdb
+c:\users\ильяс сабитов\source\OnlineStoreEF\OnlineStoreEF\bin\Debug\EntityFramework.dll
+c:\users\ильяс сабитов\source\OnlineStoreEF\OnlineStoreEF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ильяс сабитов\source\OnlineStoreEF\OnlineStoreEF\bin\Debug\EntityFramework.xml
+c:\users\ильяс сабитов\source\OnlineStoreEF\OnlineStoreEF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ильяс сабитов\source\OnlineStoreEF\OnlineStoreEF\obj\Debug\OnlineStoreEF.exe
+c:\users\ильяс сабитов\source\OnlineStoreEF\OnlineStoreEF\obj\Debug\OnlineStoreEF.pdb
